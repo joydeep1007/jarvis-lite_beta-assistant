@@ -1,0 +1,23 @@
+# Maven specific
+pom.xml
+target/
+
+# Library directory
+lib/
+
+# Test directory under main
+src/test/
+main/resources/
+
+# IDE specific (common IDEs)
+.idea/
+.vscode/
+*.iml
+.settings/
+.project
+.classpath
+
+# Compiled files
+*.class
+*.jar
+*.war
